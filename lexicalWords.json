@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "5edc44ad34b42709b58114ee"
+  },
+  "word": "to"
+},{
+  "_id": {
+    "$oid": "5edc44d234b42709b58114ef"
+  },
+  "word": "got"
+},{
+  "_id": {
+    "$oid": "5edc4664f5667209e4b653d2"
+  },
+  "word": "is"
+},{
+  "_id": {
+    "$oid": "5edc606ab257b50675309569"
+  },
+  "word": "have"
+},{
+  "_id": {
+    "$oid": "5edc6078b257b5067530956a"
+  },
+  "word": "and"
+},{
+  "_id": {
+    "$oid": "5edc6084b257b5067530956b"
+  },
+  "word": "although"
+},{
+  "_id": {
+    "$oid": "5edc609ab257b5067530956c"
+  },
+  "word": "or"
+},{
+  "_id": {
+    "$oid": "5edc60aab257b5067530956d"
+  },
+  "word": "that"
+},{
+  "_id": {
+    "$oid": "5edc60b3b257b5067530956e"
+  },
+  "word": "when"
+},{
+  "_id": {
+    "$oid": "5edc60c2b257b5067530956f"
+  },
+  "word": "while"
+},{
+  "_id": {
+    "$oid": "5edc60d1b257b50675309570"
+  },
+  "word": "a"
+},{
+  "_id": {
+    "$oid": "5edc60dab257b50675309571"
+  },
+  "word": "either"
+},{
+  "_id": {
+    "$oid": "5edc60efb257b50675309572"
+  },
+  "word": "more"
+},{
+  "_id": {
+    "$oid": "5edc60f9b257b50675309573"
+  },
+  "word": "much"
+},{
+  "_id": {
+    "$oid": "5edc610bb257b50675309574"
+  },
+  "word": "neither"
+},{
+  "_id": {
+    "$oid": "5edc611cb257b50675309575"
+  },
+  "word": "my"
+},{
+  "_id": {
+    "$oid": "5edc6127b257b50675309576"
+  },
+  "word": "that"
+},{
+  "_id": {
+    "$oid": "5edc6133b257b50675309577"
+  },
+  "word": "the"
+},{
+  "_id": {
+    "$oid": "5edc613fb257b50675309578"
+  },
+  "word": "as"
+},{
+  "_id": {
+    "$oid": "5edc614eb257b50675309579"
+  },
+  "word": "no"
+},{
+  "_id": {
+    "$oid": "5edc615bb257b5067530957a"
+  },
+  "word": "nor"
+},{
+  "_id": {
+    "$oid": "5edc616fb257b5067530957b"
+  },
+  "word": "not"
+},{
+  "_id": {
+    "$oid": "5edc6183b257b5067530957c"
+  },
+  "word": "at"
+},{
+  "_id": {
+    "$oid": "5edc6190b257b5067530957d"
+  },
+  "word": "between"
+},{
+  "_id": {
+    "$oid": "5edc61a3b257b5067530957e"
+  },
+  "word": "in"
+},{
+  "_id": {
+    "$oid": "5edc61b0b257b5067530957f"
+  },
+  "word": "of"
+},{
+  "_id": {
+    "$oid": "5edc61b9b257b50675309580"
+  },
+  "word": "without"
+},{
+  "_id": {
+    "$oid": "5edc61c6b257b50675309581"
+  },
+  "word": "i"
+},{
+  "_id": {
+    "$oid": "5edc61d0b257b50675309582"
+  },
+  "word": "you"
+},{
+  "_id": {
+    "$oid": "5edc61e1b257b50675309583"
+  },
+  "word": "he"
+},{
+  "_id": {
+    "$oid": "5edc61eeb257b50675309584"
+  },
+  "word": "she"
+},{
+  "_id": {
+    "$oid": "5edc6204b257b50675309586"
+  },
+  "word": "it"
+},{
+  "_id": {
+    "$oid": "5edc620eb257b50675309587"
+  },
+  "word": "we"
+},{
+  "_id": {
+    "$oid": "5edc6220b257b50675309588"
+  },
+  "word": "they"
+},{
+  "_id": {
+    "$oid": "5edc6229b257b50675309589"
+  },
+  "word": "anybody"
+},{
+  "_id": {
+    "$oid": "5edc6240c818cc0f18afca7e"
+  },
+  "word": "one"
+}]
